@@ -1,8 +1,10 @@
 ### head
 
--    <a href="#E" target="_self">E:AC Challenge状压dp</a>
+-    <a href="#e" target="_self">E:AC Challenge状压dp</a>
 
-### <span id="E">[E:AC Challenge状压dp](#head)</span>
+### <span id="e">[E:AC Challenge状压dp](#head)</span>
+
+<font size="5" color="#FF0000"><b>你好</font><br>
  
  每个点的前置条件为各种包含pi的状态，所以容易想到状压dp<br>
  **对于动态规划，不要想着一个状态往其他状态转移，而应该想着某一个状态是由之前的所有状态不断地来规划该状态，从而得到最优值！！！**
